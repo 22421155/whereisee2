@@ -126,6 +126,77 @@ nav {
 	background-color: darkgreen;
 }
 
+.p12 {
+	position: absolute;
+	top: 500px;
+	left: 200px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: linear-gradient(darkred 50px, red);
+}
+
+.p13 {
+	position: absolute;
+	top: 500px;
+	left: 400px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
+	background: linear-gradient(darkred 50px, red);
+}
+
+.p14 {
+	position: absolute;
+	top: 520px;
+	left: 420px;
+	background-color: white;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+}
+
+.p15 {
+	position: absolute;
+	top: 520px;
+	left: 220px;
+	background-color: white;
+	width: 20px;
+	height: 20px;
+	border-radius: 10px;
+}
+
+.p16 {
+	position: absolute;
+	top: 580px;
+	left: 330px;
+	width: 35px;
+	height: 25px;
+	border-radius: 15px;
+	background: linear-gradient(orange, yellow);
+	box-shadow: 5px 5px 5px 1px black;
+}
+
+.p17 {
+	position: absolute;
+	top: 300px;
+	left: 200px;
+	width: 80px;
+	height: 180px;
+	border-radius: 50px;
+	background: linear-gradient(black 50px, lightgray);
+}
+
+.p18 {
+	position: absolute;
+	top: 300px;
+	left: 420px;
+	width: 80px;
+	height: 180px;
+	border-radius: 50px;
+	background: linear-gradient(black 50px, lightgray);
+}
+
 li {
 	list-style: none;
 }
